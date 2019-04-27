@@ -1,7 +1,7 @@
 # Ambien
 Toggle dark mode in macOS Mojave based on ambient lighting
 
-![Screenshot of Ambien]()
+![Screenshot of Ambien](https://raw.githubusercontent.com/neilsardesai/Ambien/master/Screenshot.png)
 
 Ambien is a proof-of-concept app that uses the ambient light sensor on your Mac to switch between dark mode and light mode. When you’re in a dark environment, your Mac will switch to dark mode. When you’re in a brightly-lit environment, your Mac will switch to light mode.
 
